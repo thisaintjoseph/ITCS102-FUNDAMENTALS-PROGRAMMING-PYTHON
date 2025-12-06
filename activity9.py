@@ -1,8 +1,6 @@
-username = 'Moses'
-password = 'Hahaha1'
+username = 'Joseph'
+password = 'akonalangsana'
 
-print(username == 'Moses')
-print(password == 'Hahaha1')
-print((username == 'Mosses') and (password == 'Hahaha1'))
-print((username == 'Moses') or (password == 'Hahaha11'))
-print(not(username == 'Moses') or (password == 'Hahaha11'))
+print((username == "Joseph") and (password == 'akonalangsana'))
+print((username == "Joseph") or (password == 'akonalangsana'))
+print(not((username == "Joseph") or (password == 'akonalangsana')))
